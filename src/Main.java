@@ -3,6 +3,7 @@ public class Main {
     public static void main(String[] args) {
         // Функции в Java
 //        info("Привет");
+        //bye
 
         short num = 8;
         short num2 = 5;
@@ -18,7 +19,7 @@ public class Main {
 
     public static void summa(short a, short b){
         int res = a + b;
-        String result = "Результат: " + res;
+        String result = "Результат  " + res;
         info(result);
     }
 }
